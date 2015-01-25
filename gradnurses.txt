@@ -1,0 +1,32 @@
+Location	Nursing graduates. Total. Per 100 000 inhabitants. in 2011	share of aged 65 and + in 2011	Total health expenditure per capita in USD PPP in 2011
+Australia	71.6400	13.7	3800
+Austria	57.2600	17.7	4546
+Belgium	37.4700	17.3	4061
+Canada	54.6900	14.7	4522
+Chile	35.0700	9.3	1568
+Czech Republic	17.3600	16.2	1966
+Estonia	34.3500	17.2	1303
+Finland	63.6600	17.8	3374
+France	35.4900	17.1	4118
+Germany	27.6200	20.7	4495
+Hungary	25.5100	16.8	1689
+Iceland	65.2000	12.9	3305
+Ireland	37.5800	12.2	3700
+Israel	11.3700	10	2239
+Italy	19.1800	21	3012
+Japan	38.6800	23.3	3213
+Korea	94.8700	11.4	2198
+Luxembourg	25.0800	13.9	4246
+Mexico	9.9300	6.1	977
+Netherlands	38.7000	15.9	5099
+New Zealand	34.5600	13.3	3182
+Norway	67.5700	15.2	5669
+Poland	44.9500	13.9	1452
+Portugal	32.1200	19	2619
+Slovak Republic	58.5200	12.7	1915
+Slovenia	81.7900	16.8	2421
+Spain	24.9300	17.6	3072
+Switzerland	78.1100	17.1	5643
+Turkey	18.9200	7.9	906
+United Kingdom	34.1500	16.2	3405
+United States	65.0500	13.2	8508
